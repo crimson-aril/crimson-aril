@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=crimson-aril&layout=pie&langs_count=99999999&theme=darcula)](https://github-stats-extended.vercel.app/api/top-langs?username=crimson-aril&layout=pie&langs_count=99999999&theme=darcula)
+
 <!--
 **crimson-aril/crimson-aril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
