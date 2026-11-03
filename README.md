@@ -19,3 +19,7 @@ Friends describe me as helpful, introverted, and intuitive. I enjoy photography,
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crimson-aril/crimson-aril/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/crimson-aril/crimson-aril/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
