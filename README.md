@@ -1,4 +1,4 @@
-# Hi there :upside_down_face:
+# ![Profile Header](https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi%20there%20%F0%9F%99%83&fontSize=30&fontColor=FFFFFF&fontAlign=15&fontAlignY=80&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt)
 
 ![A baboon working on a laptop](public/baboon-on-a-laptop.GIF)
 
